@@ -17,7 +17,7 @@ mkdir -p /some/path/
 Go to folder:
 ``` bash
 cd /some/path
-``` bash
+```
 Clone repo:
 ``` bash
 git clone https://github.com/findias/prom .
